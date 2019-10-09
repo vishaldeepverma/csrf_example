@@ -1,0 +1,19 @@
+{
+  "name": "practice-seesion-token-120",
+  "version": "1.0.0",
+  "description": "session auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal deep verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "csurf": "^1.10.0",
+    "ejs": "^2.7.1",
+    "express": "latest",
+    "express-session": "^1.16.2"
+  }
+}
